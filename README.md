@@ -1,6 +1,6 @@
 # Tensorflow learning
 
-Course Info: [check here]('./course-link.txt')
+Course Info: [check here]('course-link.txt')
 
 ### Environment Setup
 
